@@ -73,11 +73,7 @@ The dataset contains:
 
 ---
 
-## 📌 How to Run Locally
 
-```bash
-pip install -r requirements.txt
-streamlit run apptwo.py
 
 
 
@@ -100,3 +96,10 @@ The Streamlit dashboard complements the research by providing an **interactive d
 - Division-wise performance trends  
 
 This integration bridges the gap between **static academic analysis** and **real-time business decision-making tools**.
+
+
+## 📌 How to Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run apptwo.py
